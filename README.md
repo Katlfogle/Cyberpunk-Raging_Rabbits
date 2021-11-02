@@ -1,15 +1,17 @@
 # WEAPONS
 The types of weapons are ranged, melee and cyberware.
 ### Ranged Weapons
-9 assault rifles; Psalm 11:6, Prejudice, Nokota D5 Sidewinder, Nokota D5 Copperhead, Moron Labe, Militach M251s Ajax, Devided we Stand, Arasaka Nowaka, Arasaka HJHS-18 Masamune.
-22 pistols
-9 revolvers
-12 shotguns
-6 sniper rifles
-10 submachine guns
-1 heavy machine gun
-1 light machine gun
-3 precision rifles
+#### 9 assault rifles
+Psalm 11:6, Prejudice, Nokota D5 Sidewinder, Nokota D5 Copperhead, Moron Labe, Militach M251s Ajax, Devided we Stand, Arasaka Nowaka, Arasaka HJHS-18 Masamune.
+#### 22 pistols
+Tsunami Nue, Skippy, Pride, Plan B, Militech M-76e Omaha, Militech, M10-AF Lexington, Malorian Arms 3516, Lizzie, La Chingona Dorada, Kongou, Kang Tao A-22B Chao, Genjiroh, Dying Night, Death and Taxes, Constitutional Arms Unity, Constitutional Arms Liberty, Chaos, Budget Arms Slaught-O-Matic, Arasaka Tamayura, Arasaka JKE-X2 Kenshin, Arasaka HJKE-11 Yukimura, Apparition.
+#### 9 revolvers
+#### 12 shotguns
+#### 6 sniper rifles
+#### 10 submachine guns
+#### 1 heavy machine gun
+#### 1 light machine gun
+#### 3 precision rifles
 ### Melee Weapons
 3 hammers
 9 one-handed clubs
