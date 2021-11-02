@@ -6,6 +6,7 @@ Psalm 11:6, Prejudice, Nokota D5 Sidewinder, Nokota D5 Copperhead, Moron Labe, M
 #### 22 pistols
 Tsunami Nue, Skippy, Pride, Plan B, Militech M-76e Omaha, Militech, M10-AF Lexington, Malorian Arms 3516, Lizzie, La Chingona Dorada, Kongou, Kang Tao A-22B Chao, Genjiroh, Dying Night, Death and Taxes, Constitutional Arms Unity, Constitutional Arms Liberty, Chaos, Budget Arms Slaught-O-Matic, Arasaka Tamayura, Arasaka JKE-X2 Kenshin, Arasaka HJKE-11 Yukimura, Apparition.
 #### 9 revolvers
+Techtronika RT-46 Burya, Malorian Overture, Doom Doom, Darra Polytechnic DR-5 Nova, Darra Polytechnic DR-12 Quasar, Crash, Comrade's Hammer, Archangel, Amnesty.
 #### 12 shotguns
 #### 6 sniper rifles
 #### 10 submachine guns
