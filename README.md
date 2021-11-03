@@ -8,7 +8,7 @@ Tsunami Nue, Skippy, Pride, Plan B, Militech M-76e Omaha, Militech, M10-AF Lexin
 #### 9 revolvers
 Techtronika RT-46 Burya, Malorian Overture, Doom Doom, Darra Polytechnic DR-5 Nova, Darra Polytechnic DR-12 Quasar, Crash, Comrade's Hammer, Archangel, Amnesty.
 #### 12 shotguns
-The Headsman, Sovereign, Rostović DB-4 Palica, Rostović DB-4 Igla, Rostović DB-2 Rostović DB-2 
+The Headsman, Sovereign, Rostović DB-4 Palica, Rostović DB-4 Igla, Rostović DB-2 Testera, Rostović DB-2 Satara, Mox, Militech Crusher, Kang-Tao L-69 Zhuo, Constitutional Arms M2038 Tactician Budget Arms Carnage, Ba Xing Chong.
 #### 6 sniper rifles
 #### 10 submachine guns
 #### 1 heavy machine gun
