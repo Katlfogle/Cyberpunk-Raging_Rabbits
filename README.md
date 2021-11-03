@@ -10,6 +10,7 @@ Techtronika RT-46 Burya, Malorian Overture, Doom Doom, Darra Polytechnic DR-5 No
 #### 12 shotguns
 The Headsman, Sovereign, Rostović DB-4 Palica, Rostović DB-4 Igla, Rostović DB-2 Testera, Rostović DB-2 Satara, Mox, Militech Crusher, Kang-Tao L-69 Zhuo, Constitutional Arms M2038 Tactician Budget Arms Carnage, Ba Xing Chong.
 #### 6 sniper rifles
+Tsunami Nekomata, Tsunami Ashura, Technotrika SPT32 Grad, Overwatch, O'Five, Breakthrough.
 #### 10 submachine guns
 #### 1 heavy machine gun
 #### 1 light machine gun
