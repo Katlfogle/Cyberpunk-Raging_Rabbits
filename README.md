@@ -12,6 +12,7 @@ The Headsman, Sovereign, Rostović DB-4 Palica, Rostović DB-4 Igla, Rostović D
 #### 6 sniper rifles
 Tsunami Nekomata, Tsunami Ashura, Technotrika SPT32 Grad, Overwatch, O'Five, Breakthrough.
 #### 10 submachine guns
+Yinglong, Prototype: Shingen Mark V, Problem Solver, Militech M221 Saratoga, Kang Tao G-58 Dian, Fenrir, Darra Polytechnic DS1 Pulsar, Buzzsaw, Arasaka TKI-20 Shingen, Arasaka, Shigure.
 #### 1 heavy machine gun
 #### 1 light machine gun
 #### 3 precision rifles
