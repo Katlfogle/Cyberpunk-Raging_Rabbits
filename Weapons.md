@@ -56,6 +56,8 @@ Reinforced Tendons, Lynx Paws, Fortified Ankles.
 #### 21 operating system
 ##### 4 Berserk
 Zetatech Berserk, Moore Tech Berserk, Militech Berserk Mk.5, Biodyne Berserk. 
+##### 12 Cyberdecks
+Tetratronic Rippler, Tetrotronic, Stephensen Tech, Seocho Electronics, Raven Microcyber, NetWatch NetDriver Mk.5, Militech Paraline, Fuyutsuki Electronics, Biotech , Biodynem, Arasaka. 
 ### Rarity
 common, uncommon, rare, epic, and legendary.
 ### Overall
