@@ -28,9 +28,9 @@ Kanabo, Gold-Plated baseball Bat, Baseball Bat.
 #### 7 katanas
 Tsumetogi, Scalpel, Satori, Katana, Jinchu-Maru, Cocktail Stick, Black Unicorn. 
 #### 3 knives
-
+Tanto, Stinger, Knife.
 #### 4 long blades
-
+Machete, Kukri, Butcher's Cleaver, Butcher's Cleaver.
 ### Cyberware
 Players can install cyberware in different parts of their body. Such as frontal cortex, ocular system, circulatory system, immune system, nervous system, integumentary system, operating system, skeleton, hands, arms, and legs. 
 9 frontal cortex
