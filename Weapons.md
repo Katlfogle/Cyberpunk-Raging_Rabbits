@@ -57,7 +57,9 @@ Reinforced Tendons, Lynx Paws, Fortified Ankles.
 ##### 4 Berserk
 Zetatech Berserk, Moore Tech Berserk, Militech Berserk Mk.5, Biodyne Berserk. 
 ##### 12 Cyberdecks
-Tetratronic Rippler, Tetrotronic, Stephensen Tech, Seocho Electronics, Raven Microcyber, NetWatch NetDriver Mk.5, Militech Paraline, Fuyutsuki Electronics, Biotech , Biodynem, Arasaka. 
+Tetratronic Rippler, Tetrotronic, Stephensen Tech, Seocho Electronics, Raven Microcyber, NetWatch NetDriver Mk.5, Militech Paraline, Fuyutsuki Electronics, Biotech, Biodynem, Arasaka. 
+##### 5 Sandevistan
+Zetatech Sandevistan, QianT Sandevistan, QuanT "Wrap Dancer" Sandevistan Mk.5, Militech "Falcon" Sandevistan Mk.5, Dynalar Sandevistan.
 ### Rarity
 common, uncommon, rare, epic, and legendary.
 ### Overall
