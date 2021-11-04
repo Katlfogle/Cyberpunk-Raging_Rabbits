@@ -22,7 +22,7 @@ Widow Maker, Militech M-179E Achilles, Midnight Arms SOR-22.
 #### 3 hammers
 Sasquatch's Hammer, Hammer, Caretaker's Spade.
 #### 9 one-handed clubs
-
+Tomahawk, Tire Iron, Tinker Bell, Steel Pipe, Sir John Phallustiff, Monkey Wrench, Electronic Baton, Crowbar, Cottonmouth. 
 #### 3 two-handed clubs
 
 #### 7 katanas
