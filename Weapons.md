@@ -24,9 +24,9 @@ Sasquatch's Hammer, Hammer, Caretaker's Spade.
 #### 9 one-handed clubs
 Tomahawk, Tire Iron, Tinker Bell, Steel Pipe, Sir John Phallustiff, Monkey Wrench, Electronic Baton, Crowbar, Cottonmouth. 
 #### 3 two-handed clubs
-
+Kanabo, Gold-Plated baseball Bat, Baseball Bat.
 #### 7 katanas
-
+Tsumetogi, Scalpel, Satori, Katana, Jinchu-Maru, Cocktail Stick, Black Unicorn. 
 #### 3 knives
 
 #### 4 long blades
