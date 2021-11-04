@@ -46,9 +46,11 @@ Synaptic Accerlerator, Reflex Tuner, NeoFiber, NanoRelays, Maneuvering System, K
 #### 6 integumentary system
 Supra-Dermal Weave, Subdermal Armor, Optical Camo, Heat Converter, Grounding Plating, Fireproof Coating.
 #### 7 skeleton
-Titanium Bones, Synaptic Signal Optimizer, Microvibration Generator, Microrotors, Dense Marrow, Bionic Lungs, Bionic Joints. 
+Titanium Bones, Synaptic Signal Optimizer, Microvibration Generator, Microrotors, Dense Marrow, Bionic Lungs, Bionic Joints.
 #### 5 hands
-#### 4 hands
+Tattoo: Tyger Claws Dermal Implant, Tattoo: Together Forever, Tattoo: Johnny's Special, Smart Link, Ballistic Coprocessor. 
+#### 4 Arms
+Projectile Launch System, Monowire, Mantis Blades, Gorilla Arms. 
 #### 3 legs
 #### 21 operating system
 ### Rarity
