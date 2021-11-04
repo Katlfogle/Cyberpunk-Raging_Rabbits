@@ -44,6 +44,7 @@ Shock-N-Awe, Pain Editor, Metabolic Editor, Inductor, Detoxifier, Cataresist.
 #### 6 nervous system
 Synaptic Accerlerator, Reflex Tuner, NeoFiber, NanoRelays, Maneuvering System, Kerenzikov.
 #### 6 integumentary system
+Supra-Dermal Weave, Subdermal Armor, Optical Camo, Heat Converter, Grounding Plating, Fireproof Coating.
 #### 7 skeleton
 #### 5 hands
 #### 4 hands
