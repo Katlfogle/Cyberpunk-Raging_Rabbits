@@ -38,8 +38,9 @@ Visual Cortex Support, Self-ICE, RAM Upgrade, Memory Boost, Mechatronic Core, Li
 #### 1 ocular system
 Kiroshi Optics
 #### 10 circulatory system
-
+Tyrosine Injector, Syn-Lungs, Second Heart, Microgenerator, Feedback Circuit, Blood Pump, Bioplastic Blood Vessels, Biomonitor, Bioconductor, Adrenaline Booster.
 #### 6 immune system
+Shock-N-Awe, Pain Editor, Metabolic Editor, Inductor, Detoxifier, Cataresist. 
 #### 6 nervous system
 #### 6 integumentary system
 #### 7 skeleton
