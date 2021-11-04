@@ -13,8 +13,11 @@ Tsunami Nekomata, Tsunami Ashura, Technotrika SPT32 Grad, Overwatch, O'Five, Bre
 #### 10 submachine guns
 Yinglong, Prototype: Shingen Mark V, Problem Solver, Militech M221 Saratoga, Kang Tao G-58 Dian, Fenrir, Darra Polytechnic DS1 Pulsar, Buzzsaw, Arasaka TKI-20 Shingen, Arasaka, Shigure.
 #### 1 heavy machine gun
+Militech Mk.31 HMG 
 #### 1 light machine gun
+Constitutional Arms M2067 Defender
 #### 3 precision rifles
+Widow Maker, Militech M-179E Achilles, Midnight Arms SOR-22.
 ### Melee Weapons
 3 hammers
 9 one-handed clubs
