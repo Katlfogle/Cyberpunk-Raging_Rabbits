@@ -22,10 +22,15 @@ Widow Maker, Militech M-179E Achilles, Midnight Arms SOR-22.
 #### 3 hammers
 Sasquatch's Hammer, Hammer, Caretaker's Spade.
 #### 9 one-handed clubs
+
 #### 3 two-handed clubs
+
 #### 7 katanas
+
 #### 3 knives
+
 #### 4 long blades
+
 ### Cyberware
 Players can install cyberware in different parts of their body. Such as frontal cortex, ocular system, circulatory system, immune system, nervous system, integumentary system, operating system, skeleton, hands, arms, and legs. 
 9 frontal cortex
