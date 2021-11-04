@@ -54,6 +54,8 @@ Projectile Launch System, Monowire, Mantis Blades, Gorilla Arms.
 #### 3 legs
 Reinforced Tendons, Lynx Paws, Fortified Ankles. 
 #### 21 operating system
+##### 4 Berserk
+Zetatech Berserk, Moore Tech Berserk, Militech Berserk Mk.5, Biodyne Berserk. 
 ### Rarity
 common, uncommon, rare, epic, and legendary.
 ### Overall
