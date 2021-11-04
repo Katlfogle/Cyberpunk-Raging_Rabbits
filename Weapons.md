@@ -52,6 +52,7 @@ Tattoo: Tyger Claws Dermal Implant, Tattoo: Together Forever, Tattoo: Johnny's S
 #### 4 Arms
 Projectile Launch System, Monowire, Mantis Blades, Gorilla Arms. 
 #### 3 legs
+Reinforced Tendons, Lynx Paws, Fortified Ankles. 
 #### 21 operating system
 ### Rarity
 common, uncommon, rare, epic, and legendary.
