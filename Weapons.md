@@ -42,6 +42,7 @@ Tyrosine Injector, Syn-Lungs, Second Heart, Microgenerator, Feedback Circuit, Bl
 #### 6 immune system
 Shock-N-Awe, Pain Editor, Metabolic Editor, Inductor, Detoxifier, Cataresist. 
 #### 6 nervous system
+Synaptic Accerlerator, Reflex Tuner, NeoFiber, NanoRelays, Maneuvering System, Kerenzikov.
 #### 6 integumentary system
 #### 7 skeleton
 #### 5 hands
