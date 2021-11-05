@@ -64,3 +64,8 @@ Zetatech Sandevistan, QianT Sandevistan, QuanT "Wrap Dancer" Sandevistan Mk.5, M
 common, uncommon, rare, epic, and legendary.
 ### Overall
 low, middle, and upper tier. Each weapon deals either chemical, electrical, physical, or thermal damage.
+
+[Home](/Home.md)
+[Characters](/Characters.md)
+[Outfits](/Outfits.md)
+[Locations](/Locations.md)
