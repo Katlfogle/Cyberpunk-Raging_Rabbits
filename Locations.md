@@ -6,5 +6,5 @@
 
 [Home](/Home.md)
 [Weapons](/Weapons.md)
-[Characters](/Characters)
+[Characters](/Characters.md)
 [Outfits](/Outfits.md)
