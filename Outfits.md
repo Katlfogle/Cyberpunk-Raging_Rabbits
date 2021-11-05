@@ -5,3 +5,8 @@
 #### Female V- She wears a black tank top with a brown jacket, with leather black pants and tall black boots
 #### Adam Smasher- He is a robot witha zombie face
 #### Rogue Amendiares- She wears a yellow crop top that says "SURVIVE" with black pants 
+
+[Home](/Home.md)
+[Weapons](/Weapons)
+[Characters](/Characters.md)
+[Locations](/Locations)
