@@ -69,3 +69,5 @@ low, middle, and upper tier. Each weapon deals either chemical, electrical, phys
 [Characters](/Characters.md)
 [Outfits](/Outfits.md)
 [Locations](/Locations.md)
+[Image 1](/3B27B4AE-FB4E-4D03-8B50-A18A97E361FE.webp)
+[Image 2](/CBFCB5B4-C619-4E9D-9DD4-CD38FFCC47C2.webp)
