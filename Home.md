@@ -4,3 +4,4 @@ Cyberpunk 2077 is an open world video game full of action and adventure. This ga
 [Characters](/Characters.md) 
 [Outfits](/Outfits.md)
 [Locations](/Locations.md)
+[Image 1](/IMG_0083.jpg) 
