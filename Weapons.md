@@ -71,3 +71,6 @@ low, middle, and upper tier. Each weapon deals either chemical, electrical, phys
 [Locations](/Locations.md)
 [Image 1](/3B27B4AE-FB4E-4D03-8B50-A18A97E361FE.webp)
 [Image 2](/CBFCB5B4-C619-4E9D-9DD4-CD38FFCC47C2.webp)
+[Image 3](/D846B68E-BA63-48CE-82EF-4EE815A74D0E.webp)
+[Image 4](/EB5A75B7-BF42-4897-85B3-52A184283D36.webp)
+[Image 5](/F59C7B00-0A7B-4BEC-ACA8-AAD1CB0732F9.webp)
