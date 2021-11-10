@@ -1,22 +1,22 @@
 ## The types of weapons are ranged, melee and cyberware.
 ### Ranged Weapons
-#### 9 assault rifles
+#### 9 Assault Rifles
 Psalm 11:6, Prejudice, Nokota D5 Sidewinder, Nokota D5 Copperhead, Moron Labe, Militach M251s Ajax, Devided we Stand, Arasaka Nowaka, Arasaka HJHS-18 Masamune.
-#### 22 pistols
+#### 22 Pistols
 Tsunami Nue, Skippy, Pride, Plan B, Militech M-76e Omaha, Militech, M10-AF Lexington, Malorian Arms 3516, Lizzie, La Chingona Dorada, Kongou, Kang Tao A-22B Chao, Genjiroh, Dying Night, Death and Taxes, Constitutional Arms Unity, Constitutional Arms Liberty, Chaos, Budget Arms Slaught-O-Matic, Arasaka Tamayura, Arasaka JKE-X2 Kenshin, Arasaka HJKE-11 Yukimura, Apparition.
-#### 9 revolvers
+#### 9 Revolvers
 Techtronika RT-46 Burya, Malorian Overture, Doom Doom, Darra Polytechnic DR-5 Nova, Darra Polytechnic DR-12 Quasar, Crash, Comrade's Hammer, Archangel, Amnesty.
-#### 12 shotguns
+#### 12 Shotguns
 The Headsman, Sovereign, Rostović DB-4 Palica, Rostović DB-4 Igla, Rostović DB-2 Testera, Rostović DB-2 Satara, Mox, Militech Crusher, Kang-Tao L-69 Zhuo, Constitutional Arms M2038 Tactician Budget Arms Carnage, Ba Xing Chong.
-#### 6 sniper rifles
+#### 6 Sniper Rifles
 Tsunami Nekomata, Tsunami Ashura, Technotrika SPT32 Grad, Overwatch, O'Five, Breakthrough.
-#### 10 submachine guns
+#### 10 Submachine Guns
 Yinglong, Prototype: Shingen Mark V, Problem Solver, Militech M221 Saratoga, Kang Tao G-58 Dian, Fenrir, Darra Polytechnic DS1 Pulsar, Buzzsaw, Arasaka TKI-20 Shingen, Arasaka, Shigure.
-#### 1 heavy machine gun
+#### 1 Heavy Machine Gun
 Militech Mk.31 HMG 
-#### 1 light machine gun
+#### 1 Light Machine Gun
 Constitutional Arms M2067 Defender
-#### 3 precision rifles
+#### 3 Precision Rifles
 Widow Maker, Militech M-179E Achilles, Midnight Arms SOR-22.
 ### Melee Weapons
 #### 3 hammers
