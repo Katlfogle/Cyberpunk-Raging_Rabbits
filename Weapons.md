@@ -1,4 +1,4 @@
-## The types of weapons are ranged, melee and cyberware.
+## The Types of Weapons are Ranged, Melee and Cyberware.
 ### Ranged Weapons
 #### 9 Assault Rifles
 Psalm 11:6, Prejudice, Nokota D5 Sidewinder, Nokota D5 Copperhead, Moron Labe, Militach M251s Ajax, Devided we Stand, Arasaka Nowaka, Arasaka HJHS-18 Masamune.
