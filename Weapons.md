@@ -19,41 +19,41 @@ Constitutional Arms M2067 Defender
 #### 3 Precision Rifles
 Widow Maker, Militech M-179E Achilles, Midnight Arms SOR-22.
 ### Melee Weapons
-#### 3 hammers
+#### 3 Hammers
 Sasquatch's Hammer, Hammer, Caretaker's Spade.
-#### 9 one-handed clubs
+#### 9 One-Handed Clubs
 Tomahawk, Tire Iron, Tinker Bell, Steel Pipe, Sir John Phallustiff, Monkey Wrench, Electronic Baton, Crowbar, Cottonmouth. 
-#### 3 two-handed clubs
+#### 3 Two-Handed Clubs
 Kanabo, Gold-Plated baseball Bat, Baseball Bat.
-#### 7 katanas
+#### 7 Katanas
 Tsumetogi, Scalpel, Satori, Katana, Jinchu-Maru, Cocktail Stick, Black Unicorn. 
-#### 3 knives
+#### 3 Knives
 Tanto, Stinger, Knife.
-#### 4 long blades
+#### 4 Long Blades
 Machete, Kukri, Butcher's Cleaver, Butcher's Cleaver.
 ### Cyberware
 Players can install cyberware in different parts of their body. Such as frontal cortex, ocular system, circulatory system, immune system, nervous system, integumentary system, operating system, skeleton, hands, arms, and legs. 
-#### 9 frontal cortex
+#### 9 Frontal Cortex
 Visual Cortex Support, Self-ICE, RAM Upgrade, Memory Boost, Mechatronic Core, Limbic System Enhancement, Heal-On-Kill, Ex-Disk, Camillo RAM Manager.
-#### 1 ocular system
+#### 1 Ocular System
 Kiroshi Optics
-#### 10 circulatory system
+#### 10 Circulatory System
 Tyrosine Injector, Syn-Lungs, Second Heart, Microgenerator, Feedback Circuit, Blood Pump, Bioplastic Blood Vessels, Biomonitor, Bioconductor, Adrenaline Booster.
-#### 6 immune system
+#### 6 Immune System
 Shock-N-Awe, Pain Editor, Metabolic Editor, Inductor, Detoxifier, Cataresist. 
-#### 6 nervous system
+#### 6 Nervous System
 Synaptic Accerlerator, Reflex Tuner, NeoFiber, NanoRelays, Maneuvering System, Kerenzikov.
-#### 6 integumentary system
+#### 6 Integumentary System
 Supra-Dermal Weave, Subdermal Armor, Optical Camo, Heat Converter, Grounding Plating, Fireproof Coating.
-#### 7 skeleton
+#### 7 Skeleton
 Titanium Bones, Synaptic Signal Optimizer, Microvibration Generator, Microrotors, Dense Marrow, Bionic Lungs, Bionic Joints.
-#### 5 hands
+#### 5 Hands
 Tattoo: Tyger Claws Dermal Implant, Tattoo: Together Forever, Tattoo: Johnny's Special, Smart Link, Ballistic Coprocessor. 
 #### 4 Arms
 Projectile Launch System, Monowire, Mantis Blades, Gorilla Arms. 
-#### 3 legs
+#### 3 Legs
 Reinforced Tendons, Lynx Paws, Fortified Ankles. 
-#### 21 operating system
+#### 21 Operating System
 ##### 4 Berserk
 Zetatech Berserk, Moore Tech Berserk, Militech Berserk Mk.5, Biodyne Berserk. 
 ##### 12 Cyberdecks
