@@ -4,7 +4,7 @@
 ## Arasaka Tower: A Massive skyscraper located in Corpo Plaza, Night City
 ## City Hall: Location in Night City, It is the seat of the mayor and the Night City Council
 
-[Home](/Home.md)
+[Home](/README.md)
 [Weapons](/Weapons.md)
 [Characters](/Characters.md)
 [Outfits](/Outfits.md)
