@@ -6,7 +6,7 @@
 #### Adam Smasher- He is a robot with a zombie face.
 #### Rogue Amendiares- She wears a yellow crop top that says "SURVIVE" with black pants .
 
-[Home](/Home.md)
+[Home](/README.md)
 [Weapons](/Weapons.md)
 [Characters](/Characters.md)
 [Locations](/Locations.md)
