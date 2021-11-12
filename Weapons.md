@@ -65,7 +65,7 @@ common, uncommon, rare, epic, and legendary.
 ### Overall
 low, middle, and upper tier. Each weapon deals either chemical, electrical, physical, or thermal damage.
 
-[Home](/Home.md)
+[Home](/README.md)
 [Characters](/Characters.md)
 [Outfits](/Outfits.md)
 [Locations](/Locations.md)
